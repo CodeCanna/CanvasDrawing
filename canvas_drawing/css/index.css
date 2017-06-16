@@ -1,0 +1,46 @@
+body {
+  background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+canvas#canvas {
+  background-color: lightgray;
+}
+
+button {
+  border-radius: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#red {
+  background-color: red;
+  color: white;
+  border-color: red;
+}
+
+#green {
+  background-color: green;
+  color: white;
+  border-color: green;
+}
+
+#blue {
+  background-color: blue;
+  color: white;
+  border-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+  border-color: yellow;
+}
+
+#black {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
